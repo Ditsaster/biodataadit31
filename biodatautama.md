@@ -8,7 +8,7 @@ Jenis Kelamin : Laki Laki
 <br>
 Tempat Tanggal Lahir : Bandung,31 Januari 2005
 <br>
-Hobi : Coding,Catur,Berenang
+Hobi :Catur,Berenang
 <br>
-Cita-Cita : Pengusaha
+
 
