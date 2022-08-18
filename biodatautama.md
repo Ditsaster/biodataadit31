@@ -11,5 +11,9 @@ Tempat Tanggal Lahir : Bandung,31 Januari 2005
 Hobi :Catur,Berenang
 <br>
 cita-cita = menjadi manusia yg lebih baik
-
+Riwayat pendidikan :
+TK Alhusna
+SDN Raya Barat
+SMPN 33 Bandung
+SMK Prakarya Internasional
 
